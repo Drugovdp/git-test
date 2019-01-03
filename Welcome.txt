@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 print("Welcome");
 print("How do you do?");
-=======
-print("Welcome");
->>>>>>> parent of bda2ab5... Update Welcome.txt
+print("Hi");

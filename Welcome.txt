@@ -2,3 +2,4 @@ print("Welcome");
 print("How do you do?");
 print("Hi");
 print("Add new string")
+print('All goodbye')

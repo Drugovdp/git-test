@@ -1,3 +1,4 @@
 print("Welcome");
 print("How do you do?");
 print("Hi");
+print("Программа на несуществующем языке")
